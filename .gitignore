@@ -133,3 +133,7 @@ Image.gz*
 kernel_log-*.txt
 *.zip
 drivers/kernelsu
+scripts/basic/fixdep
+scripts/kconfig/conf
+scripts/kconfig/zconf.lex.c
+scripts/kconfig/zconf.tab.c
