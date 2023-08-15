@@ -11,6 +11,8 @@
 # GNU General Public License for more details.
 #
 
+export CONFIG_WLAN_DRV_BUILD_IN=y
+
 # Connectivity combo driver
 subdir-ccflags-y += -I$(srctree)/
 subdir-ccflags-y += -I$(srctree)/drivers/misc/mediatek/base/power/include
