@@ -128,6 +128,7 @@ all.config
 kernel/configs/android-*.cfg
 
 # Personal
+out/
 Image.gz*
 kernel_log-*.txt
 *.zip
